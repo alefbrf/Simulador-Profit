@@ -23,7 +23,7 @@ height: 100%;
 display: flex;
 vertical-align: baseline;
 padding-top: 100px;
-padding-left: 350px;
+padding-left: 300px;
 width: 800px;
 }
 
@@ -60,7 +60,7 @@ width: 800px;
     width: 150px;
     height: 35px;
     margin-top: 580px;
-    margin-left: 1200px;
+    margin-left: 1140px;
     z-index: 1;
     text-align:center;
     border-top: 1px solid #19275c;
@@ -104,7 +104,7 @@ padding-top: 10px;
 .acabamentos{
     position: absolute;
     background-color: #EFEFEF;
-    width: 300px;
+    width: 240px;
     height: 360px;
     border-radius:10px ;
     border-width: 2px ;
@@ -157,7 +157,7 @@ font-size: 20px;
 font-family: Helvetica, Arial, Sans-Serif;
 text-decoration: none;
 vertical-align: middle;
-margin-left: 70px;
+margin-left: 40px;
 z-index: 1;
 }
 .download:hover , .uploader:hover {
@@ -379,7 +379,7 @@ display: flex;
     border-style: solid;
     border-color: #ff3535;
     margin-top: 150px;
-   left:1120px;
+   left:1060px;
    z-index: 20;
 }
 .cores h2,.coresb h2, .coresGE h2, .coresGI h2, .coresP h2, .coresVE h2, .coresVD h2, .coresBF h2,.coresBB h2{
